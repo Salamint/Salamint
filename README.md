@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @Warna38
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @Warna38 !
+I am a developer of the Asilux project, a Minecraft Server project,
+and I also work on open sources or private personnal projects.
+
+My favourites languages are Python 🐍, Java ☕,
+and I am currently learning new languages
+such as C/C++, C# and maybe a day I could learn Javascript.
+
+For now, my projects are personnal and I don't want to show them right now.
 
 <!---
 Warna38/Warna38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
