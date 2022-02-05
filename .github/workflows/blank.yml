@@ -1,0 +1,16 @@
+name: Snapshots
+
+on:
+  push:
+    branches:
+      - dev
+
+jobs:
+  deployment:
+    runs-on: ubuntu-latest
+    environment: 
+      name: Snapshots
+      url: https://github.com
+    steps:
+      - name: deploy
+        run: echo Hello, world!
