@@ -1,0 +1,16 @@
+name: Releases
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deployment:
+    runs-on: ubuntu-latest
+    environment: 
+      name: Releases
+      url: https://github.com
+    steps:
+      - name: deploy
+        run: echo Hello, world!
