@@ -1,7 +1,6 @@
 # 👋 Hi, I’m @Salamint !
 
-I am a developer of the Asilux project, a Minecraft Server project,
-and I also work on open sources or private personnal projects.
+I work on open sources or private personnal projects.
 
 My favourites languages are Python 🐍, Java ☕,
 and I am currently learning new languages
