@@ -35,5 +35,5 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ## :fire: My Stats :
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salamint)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salamint&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salamint&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
