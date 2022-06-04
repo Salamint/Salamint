@@ -35,5 +35,5 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ## :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Salamint&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salamint)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salamint&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
